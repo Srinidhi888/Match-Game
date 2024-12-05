@@ -2,13 +2,11 @@ In this project, let's build a **Match Game** by applying the concepts we have l
 
 ### Refer to the video below:
 
-<br/>
-<div style="text-align: center;">
-  <video style="max-width:80%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12);outline:none;" loop="true" autoplay="autoplay" controls="controls" muted>
-    <source src="https://assets.ccbp.in/frontend/content/react-js/match-game-output.mp4" type="video/mp4">
-  </video>
-</div>
-<br/>
+
+https://github.com/user-attachments/assets/5553cda6-c253-4dfe-91c3-d805b9d8c850
+
+
+
 
 ### Design Files
 
