@@ -1,0 +1,14 @@
+.btn {
+  background-color: transparent;
+  border-width: 0px;
+  color: white;
+  font-size: 23px;
+  margin: 25px;
+  padding-bottom: 10px;
+}
+.btn-1 {
+  color: #fec653;
+  border-bottom-width: 3px;
+  border-color: #fec653;
+  padding-bottom: 10px;
+}
